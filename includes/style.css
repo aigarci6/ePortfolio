@@ -1,0 +1,101 @@
+/* navbar */
+.navbar {
+    font-size: 2vw;
+}
+
+.active {
+    font-weight: 600;
+}
+
+/* general body */
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    margin: 5vw;
+}
+
+/* main areas */
+.mainDiv {
+    display: flex;
+    width: 80vw;
+    height: 60vh;
+    margin-left: 10vw;
+    justify-content: center;
+    background-color: lightgrey;
+    border: 3px, solid, black;
+    border-radius: 2.5%;
+    margin: 5vw 10vw;
+    position: static;
+}
+
+.imgElement {
+    height: 90%;
+    width: 45%;
+    position: relative;
+}
+.imgElement.left {
+    margin-right: 2.5%;
+}
+.imgElement.right {
+    margin-left: 2.5%;
+}
+
+.mainDiv img {
+    max-width: 90%;
+    height: 90%;
+    position: absolute;
+    object-fit: contain;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 7.5%;
+}
+
+.paraElement {
+    height: 90%;
+    width: 45%;
+    position: relative;
+    justify-content: center;
+}
+.paraElement.right {
+    margin-left: 2.5%;
+}
+.paraElement.left {
+    margin-right: 2.5%;
+}
+.paraElement .small {
+    max-width: 90%;
+    max-height: 90%;
+    position: absolute;
+    margin-top: 30vh;
+    transform: translateY(-50%);
+}
+
+.carImg {
+    max-height: 30vw;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+}
+#carouselIndex {
+    background-color: lightgrey;
+}
+a {
+    color: grey;
+}
+a:hover {
+    color: black;
+}
+
+.galleryImg {
+    width: 70vw;
+    height: 70vh;
+    background-color: lightgrey;
+    margin: 5vh 15vw;
+}
+.galleryImg img {
+    max-width: 63vw;
+    height: 63vh;
+    margin: 3.5vh 35vw;
+    object-fit: cover;
+    transform: translateX(-50%);
+}
