@@ -72,6 +72,7 @@ require_once "includes/header.php";
 <div class="mainDiv">
     <div class="imgElement left">
         <img src="images/micUnsplashImg.jpg" alt="A Microphone">
+        <a href="https://unsplash.com/photos/sT0n-Ie8OKo" target="_blank">Image Source</a>
     </div>
     <div class="paraElement right">
         <div>

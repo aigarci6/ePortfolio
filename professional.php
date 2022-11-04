@@ -20,7 +20,7 @@ require_once "includes/header.php";
             Goal of the camp is to <b>develop</b> the <b>teamwork and leadership</b> capabilities of the Junior Cadets. <br><br>
             As Chief CTO, I developed multi-faceted leadership, having to balance:
             <ul>
-                <li>Directions from the instructors (the people running the camp)</li>
+                <li>Directions from the instructors (the people overseeing the camp)</li>
                 <li>Leading my fellow CTOs and delivering instructions to them from the instructors, giving them guidance on my vision for the camp, and elevating their feedback and complaints up to the instructors</li>
                 <li>Developing the junior cadets under me, making sure to keep a balance of strictness and personableness</li>
             </ul>

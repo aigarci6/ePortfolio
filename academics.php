@@ -7,6 +7,7 @@ require_once "includes/header.php";
 <div class="mainDiv">
     <div class="imgElement left">
         <img src="images/glassesAndComputers.jpg" alt="Glasses with computers in the background">
+        <a href="https://unsplash.com/photos/w7ZyuGYNpRQ" target="_blank">Image Source</a>
     </div>
     <div class="paraElement right">
         <div>
@@ -62,6 +63,7 @@ require_once "includes/header.php";
     </div>
     <div class="imgElement right">
         <img src="images/UHCullenBuilding.jpg" alt="University of Houston Cullen Building">
+        <a href="https://unsplash.com/photos/zcElqgPLBZg" target="_blank">Image Source</a>
     </div>
 </div>
 

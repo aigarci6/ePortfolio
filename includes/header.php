@@ -25,7 +25,7 @@
         <a class="nav-link <?php if ($title == "Special Events") {echo 'active';}?>" <?php if ($title == "Special Events") {echo 'aria-current="page"';} ?> href="specialEvents.php">Special Events</a>
         <a class="nav-link <?php if ($title == "Skills & Hobbies") {echo 'active';}?>" <?php if ($title == "Skills & Hobbies") {echo 'aria-current="page"';} ?> href="skillsAndHobbies.php">Skills & Hobbies</a>
         <a class="nav-link <?php if ($title == "Blog") {echo 'active';}?>" hidden <?php if ($title == "Blog") {echo 'aria-current="page"';} ?> href="blog.php">Blog</a>
-        <a class="nav-link <?php if ($title == "Gallery") {echo 'active';}?>" <?php if ($title == "Gallery") {echo 'aria-current="page"';} ?> href="gallery.php">Gallery</a>
+        <a class="nav-link <?php if ($title == "My Life") {echo 'active';}?>" <?php if ($title == "My Life") {echo 'aria-current="page"';} ?> href="myLife.php">My Life</a>
       </div>
     </div>
   </div>

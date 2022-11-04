@@ -7,6 +7,7 @@ require_once "includes/header.php";
 <div class="mainDiv">
     <div class="imgElement left">
         <img src="images/codingUnsplashImg.jpg" alt="Computer setup image">
+        <a href="https://unsplash.com/photos/DuHKoV44prg" target="_blank">Image Source</a>
     </div>
     <div class="paraElement right">
         <div>
@@ -25,7 +26,7 @@ require_once "includes/header.php";
 </div>
 
 <div class="mainDiv">
-    <div class="paraElement left text-center">
+    <div class="paraElement left">
         <div>
             <h2>Photography</h2>
             I enjoy seeing life from an artistic point of view, aiming to capture scenes for their beauty and be able to have a recollection through time of my life using images. 
@@ -41,7 +42,7 @@ require_once "includes/header.php";
     <div class="imgElement left">
         <img src="images/pianoCStat.jpg" alt="Axit Garcia Headshot">
     </div>
-    <div class="paraElement right text-center">
+    <div class="paraElement right">
         <div>
             <h2>Piano</h2>
             The piano is a hobby I picked up recently, continuing my musical interest from my time in choir and as Band Captain in high school. My goal is to play in every city I visit. As of November 2022, I have played in Houston, San Antonio, and College Station.
