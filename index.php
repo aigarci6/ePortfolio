@@ -24,7 +24,7 @@ require_once "includes/header.php";
       <img src="images/diningInPOWMIA.JPEG" class="d-block w-100 carImg" alt="POW/MIA Ceremony">
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="images/IMG_3474.PNG" class="d-block w-100 carImg" alt="Hanging off grounded plane">
+      <img src="images/freeFallPlaneSide.PNG" class="d-block w-100 carImg" alt="Hanging off grounded plane at the Air Force Academy">
     </div>
     <div class="carousel-item" data-bs-interval="2000">
       <img src="images/announcingAwards.jpg" class="d-block w-100 carImg" alt="Announcing Awards">
