@@ -74,7 +74,7 @@ require_once "includes/header.php";
     <div class="paraElement right">
         <div>
             <h2>Air Force Leadership</h2>
-            Minor needed to become an officer in the Air Force through Air Force ROTC. It's most important component is Leadership Laboratory where we get hands on experience in all things <b>leading</b> and <b>teamwork</b>. <br><br>
+            The minor needed to become an officer in the Air Force through Air Force ROTC. It's most important component is Leadership Laboratory where we get hands on experience in all things <b>leading</b> and <b>teamwork</b>. <br><br>
             Skills developed from this minor include:
             <li>Teamwork</li>
             <li>Leadership Theory and Practice</li>
