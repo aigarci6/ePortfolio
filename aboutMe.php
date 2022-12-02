@@ -4,7 +4,7 @@ $color = "#FF0000";
 require_once "includes/header.php";
 ?>
 
-<div class="variableDiv reveal reveallevel">
+<div class="variableDiv appear1">
     <div class="imgDiv reveal revealleft">
         <span class="helper"></span>
         <img src="images/tempHeadshot.JPG" alt="Axit Garcia Headshot">
@@ -23,6 +23,18 @@ require_once "includes/header.php";
     Being born and raised in Houston, Tx, I have not had the opportunity to see the world like others have, but I am grateful for the life I have been able to experience in my town of Houston, one of the
     biggest and most diverse cities in the nation and the world. The following gallery shows images of my life through time, displaying the opportunities I have had and my growth as time has gone on.
     <br><br>I hope to continue having the opportunity to serve my community and grow as a person, always striving for <b>humility</b> in all my thoughts, <b>approachability</b> in my personality, and <b>credibility</b> in my actions and words.
+</div>
+<div class="mainDiv">
+    <div class="imgElement left">
+        <img src="images/tempHeadshot.JPG" alt="Axit Garcia Headshot">
+    </div>
+    <div class="paraElement right">
+        <div class="small">
+            <h2>My Philosophy</h2>
+            <b>Towards others:</b> Everything you do, do with love. Serve others for their benefit and to improve the situation that they may find themselves in. <br><br>
+            <b>Towards myself:</b> Practice virtue in all things. Try your best to not let negative situations affect you, but embrace positive situations for how great they are.
+        </div>
+    </div>
 </div>
 
 <div class="mainDiv">

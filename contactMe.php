@@ -8,10 +8,6 @@ if (isset($_GET['success'])) {
     } else {
         echo '<h1>Your email failed to send. Please try again</h1>';
     }
-} else {
-    ?>
-    <h3 class="mt-3 text-center">Please look at <a href="pdfView.php?pdf=documents/GarciaAxitResumeFall2022Public.pdf">my resume</a> and feel free to contact me if I am the leader or computer scientist you are looking for.</h3>
-    <?php
 }
 ?>
 
