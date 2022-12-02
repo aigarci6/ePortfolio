@@ -13,6 +13,71 @@ h1 {
     text-transform: uppercase;
     margin: 5vw;
 }
+@keyframes transitionIn {
+    /* // this makes it so that classes with transitionIn added to their animation
+    //will appear subtly when page loads (ie top row of services) */
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+.appear1 {
+    animation: transitionIn 2s;
+}
+.appear2 {
+    animation: transitionIn 4s;
+}
+.reveal.reveallevel {
+    opacity: 0;
+    transition: transform 1s ease-in-out, opacity 1s ease-in-out, height 500ms ease-in-out;
+}
+.reveal.reveallevel.active {
+    opacity: 1;
+}
+.revealup.reveal {
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: transform 1s ease-in-out, opacity 1s ease-in-out, height 500ms ease-in-out;
+}
+.revealupslow.reveal {
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: transform 1.5s ease-in-out, opacity 1.5s ease-in-out, height 0.75s ease-in-out;
+}
+.revealup.reveal.active { 
+    transform: translateY(0px);
+    opacity: 1;
+}
+.revealupslow.reveal.active { 
+    transform: translateY(0px);
+    opacity: 1;
+}
+.revealleft.reveal {
+    position: relative;
+    transform: translateX(-150px);
+    opacity: 0;
+    transition: transform 2s ease-in-out, opacity 1s ease-in-out, height 500ms ease-in-out;
+}
+.revealleft.reveal.active {
+    transform: translateX(0px);
+    opacity: 1;
+}
+.revealright.reveal {
+    position: relative;
+    transform: translateX(150px);
+    opacity: 0;
+    transition: transform 2s ease-in-out, opacity 1s ease-in-out, height 500ms ease-in-out;
+}
+.revealright.reveal.active {
+    transform: translateX(0px);
+    opacity: 1;
+}
 
 /* main areas */
 .mainDiv {
@@ -22,7 +87,6 @@ h1 {
     justify-content: center;
     background-color: lightgrey;
     border: 3px, solid, black;
-    border-radius: 2.5%;
     margin: 5vw 10vw;
     position: static;
 }
@@ -89,11 +153,16 @@ a:hover {
     color: black;
 }
 
+.scroll-container {
+     height: 70vh;
+     overflow-y: auto;
+     overflow-x: hidden;
+}
 .galleryImg {
     width: 70vw;
     height: 70vh;
     background-color: lightgrey;
-    margin: 5vh 15vw;
+    margin: 0 15vw;
 }
 .galleryImg img {
     max-width: 63vw;
@@ -109,20 +178,18 @@ a:hover {
     justify-content: center;
     background-color: lightgrey;
     border: 3px, solid, black;
-    border-radius: 2.5%;
-    margin: 5vw 10vw;
+    margin: 0vw 10vw;
     position: static;
     padding-top: 7vh;
     padding-bottom: 7vh;
+    font-size: 3vh;
 }
 .textDiv {
     width: 35vw;
-    background-color: rgb(157, 157, 177);
     justify-content: center;
 }
 .imgDiv {
     width: 35vw;
-    background-color: aquamarine;
     justify-content: center;
     position:relative;
     white-space: nowrap;

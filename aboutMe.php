@@ -1,9 +1,23 @@
-<?php 
+<?php
 $title = "About Me";
 $color = "#FF0000";
 require_once "includes/header.php";
 ?>
 
+<div class="variableDiv reveal reveallevel">
+    <div class="imgDiv reveal revealleft">
+        <span class="helper"></span>
+        <img src="images/tempHeadshot.JPG" alt="Axit Garcia Headshot">
+    </div>
+    <div class="textDiv reveal revealright">
+        <div>
+            <h2>Who am I?</h2>
+            I am a learner, a follower, a team member, a leader. I am a first generation college student and the son of Immigrant parents, and I seek to continue advancing the success my family has had to get me to where I am. My two focuses are in <b>leadership</b> and <b>computer technologies</b>. <br><br>
+            As a striving leader, my goal is to create a cohesive unit in any activity/organization that I may find myself in. I do this by employing the leadership experiences I have had, emotional intelligence, patience, and focusing on serving others. <br><br>
+            As a computer scientist, my goal is to maximize the capabilites that technology has to offer. My interests include software engineering to create products with purpose, artifical intelligence to automate tasks and enhance productivity, and cyber sercurity to make sure we are safe in the digital age.
+        </div>
+    </div>
+</div>
 <div class="galleryImg text-center" style="font-size: 1.5vw; height: 40vh;">
     <h2>My Life</h2>
     Being born and raised in Houston, Tx, I have not had the opportunity to see the world like others have, but I am grateful for the life I have been able to experience in my town of Houston, one of the
@@ -15,7 +29,7 @@ require_once "includes/header.php";
     <div class="paraElement left">
         <div>
             <h2>Photography</h2>
-            I enjoy seeing life from an artistic point of view, aiming to capture scenes for their beauty and be able to have a recollection through time of my life using images. 
+            I enjoy seeing life from an artistic point of view, aiming to capture scenes for their beauty and be able to have a recollection through time of my life using images.
             I am by no means a professional but I have taken graduation, engangement, and organizational photos and I enjoy the artistic side it lets me express, as well as being able to provide others with images they like of themselves.
         </div>
     </div>
@@ -36,16 +50,18 @@ require_once "includes/header.php";
     </div>
 </div>
 
-<div class="galleryImg">
-    <img src="images/freeFallPlaneSide.PNG" alt="Hanging off side of plane at the academy">
+<div class="scroll-container">
+    <div class="galleryImg">
+        <img src="images/freeFallPlaneSide.PNG" alt="Hanging off side of plane at the academy">
+    </div>
+
+    <div class="galleryImg">
+        <img src="images/freeFall.jpg" alt="Free Fall at the Air Force Academy">
+    </div>
+
+    <div class="galleryImg">
+        <img src="images/diningInPOWMIA.JPEG" alt="POW/MIA Ceremony">
+    </div>
 </div>
 
-<div class="galleryImg">
-    <img src="images/freeFall.jpg" alt="Free Fall at the Air Force Academy">
-</div>
-
-<div class="galleryImg">
-    <img src="images/diningInPOWMIA.JPEG" alt="POW/MIA Ceremony">
-</div>
-    
 <?php require_once "includes/footer.php"; ?>
