@@ -17,15 +17,15 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link <?php if ($title == "Home") {echo 'active';}?>" <?php if ($title == "Home") {echo 'aria-current="page"';} ?> href="index.php">Home</a>
-        <a class="nav-link <?php if ($title == "Professional") {echo 'active';}?>" <?php if ($title == "Professional") {echo 'aria-current="page"';} ?> href="professional.php">Professional</a>
-        <a class="nav-link <?php if ($title == "Academics") {echo 'active';}?>" <?php if ($title == "Academics") {echo 'aria-current="page"';} ?> href="academics.php">Academics</a>
+        <a class="nav-link <?php if ($title == "Home") {echo 'active';}?>" <?php if ($title == "Home") {echo 'aria-current="page"';} ?> href="index.php">Home</a> _
+        <a class="nav-link <?php if ($title == "About Me") {echo 'active';}?>" <?php if ($title == "About Me") {echo 'aria-current="page"';} ?> href="aboutMe.php">About Me</a> _
+        <a class="nav-link <?php if ($title == "Professional") {echo 'active';}?>" <?php if ($title == "Professional") {echo 'aria-current="page"';} ?> href="professional.php">Professional</a> _
+        <a class="nav-link <?php if ($title == "Academics") {echo 'active';}?>" <?php if ($title == "Academics") {echo 'aria-current="page"';} ?> href="academics.php">Academics</a> _
+        <a class="nav-link <?php if ($title == "Community") {echo 'active';}?>" <?php if ($title == "Community") {echo 'aria-current="page"';} ?> href="community.php">Community</a> _
+        <a class="nav-link <?php if ($title == "Special Events") {echo 'active';}?>" <?php if ($title == "Special Events") {echo 'aria-current="page"';} ?> href="specialEvents.php">Special Events</a> _
+        <a hidden class="nav-link <?php if ($title == "Skills & Hobbies") {echo 'active';}?>" <?php if ($title == "Skills & Hobbies") {echo 'aria-current="page"';} ?> href="skillsAndHobbies.php">Skills & Hobbies</a>
+        <a hidden class="nav-link <?php if ($title == "Blog") {echo 'active';}?>" <?php if ($title == "Blog") {echo 'aria-current="page"';} ?> href="blog.php">Blog</a>
         <a class="nav-link <?php if ($title == "Contact Me") {echo 'active';}?>" <?php if ($title == "Contact Me") {echo 'aria-current="page"';} ?> href="contactMe.php">Contact Me</a>
-        <a class="nav-link <?php if ($title == "Community") {echo 'active';}?>" <?php if ($title == "Community") {echo 'aria-current="page"';} ?> href="community.php">Community</a>
-        <a class="nav-link <?php if ($title == "Special Events") {echo 'active';}?>" <?php if ($title == "Special Events") {echo 'aria-current="page"';} ?> href="specialEvents.php">Special Events</a>
-        <a class="nav-link <?php if ($title == "Skills & Hobbies") {echo 'active';}?>" <?php if ($title == "Skills & Hobbies") {echo 'aria-current="page"';} ?> href="skillsAndHobbies.php">Skills & Hobbies</a>
-        <a class="nav-link <?php if ($title == "Blog") {echo 'active';}?>" hidden <?php if ($title == "Blog") {echo 'aria-current="page"';} ?> href="blog.php">Blog</a>
-        <a class="nav-link <?php if ($title == "My Life") {echo 'active';}?>" <?php if ($title == "My Life") {echo 'aria-current="page"';} ?> href="myLife.php">My Life</a>
       </div>
     </div>
   </div>

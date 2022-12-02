@@ -19,7 +19,6 @@ h1 {
     display: flex;
     width: 80vw;
     height: 60vh;
-    margin-left: 10vw;
     justify-content: center;
     background-color: lightgrey;
     border: 3px, solid, black;
@@ -102,4 +101,43 @@ a:hover {
     margin: 3.5vh 35vw;
     object-fit: cover;
     transform: translateX(-50%);
+}
+
+.variableDiv {
+    display: flex;
+    width: 80vw;
+    justify-content: center;
+    background-color: lightgrey;
+    border: 3px, solid, black;
+    border-radius: 2.5%;
+    margin: 5vw 10vw;
+    position: static;
+    padding-top: 7vh;
+    padding-bottom: 7vh;
+}
+.textDiv {
+    width: 35vw;
+    background-color: rgb(157, 157, 177);
+    justify-content: center;
+}
+.imgDiv {
+    width: 35vw;
+    background-color: aquamarine;
+    justify-content: center;
+    position:relative;
+    white-space: nowrap;
+    text-align: center;
+}
+/* https://stackoverflow.com/questions/7273338/how-to-vertically-align-an-image-inside-a-div
+for vertically aligning image */
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.variableDiv img {
+    max-width: 25vw;
+    max-height: 90%;
+    object-fit: contain;
+    vertical-align: middle;
 }

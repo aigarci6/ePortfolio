@@ -80,4 +80,25 @@ require_once "includes/header.php";
     </div>
 </div>
 
+<div class="mainDiv">
+    <div class="imgElement left">
+        <img src="images/codingUnsplashImg.jpg" alt="Computer setup image">
+        <a href="https://unsplash.com/photos/DuHKoV44prg" target="_blank">Image Source</a>
+    </div>
+    <div class="paraElement right">
+        <div>
+            <h2>Web Design</h2>
+            I have worked with:
+            <ul>
+                <li>HTML, CSS, Javascript</li>
+                <li>PHP</li>
+                <li>MySQL</li>
+                <li>Bootstrap</li>
+                <li>Google Firebase</li>
+            </ul>
+            The projects I have done include this website...
+        </div>
+    </div>
+</div>
+
 <?php require_once "includes/footer.php"; ?>
