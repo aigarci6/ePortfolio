@@ -9,7 +9,7 @@
     <title><?php echo $title ?></title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg bg-light position-static">
+<nav class="navbar navbar-expand-lg bg-light sticky-top">
   <div class="container-fluid">
     <a class="navbar-brand" href="#"><img src="images/potentialLogo.jpeg" style="width: 8vw;" alt="Axit Garcia"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">

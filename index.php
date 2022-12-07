@@ -20,8 +20,8 @@ require_once "includes/header.php";
     </div>
 </div>
 <div class="variableDiv reveal revealup">
-    <span class="reveal revealupslow" style="width: 70%; text-align:center">
-    As you look through my E-portfolio, I hope to portray the passion I have for what I do, as well as give you insight into the person I am and life I lead. If you are interested in what I do or think I can serve you in any way, feel free to reach out on the <a href="contactMe.php">contact page</a>. <br>
+    <span class="" style="width: 70%; text-align:center">
+    As you look through my E-portfolio, I hope to portray the passion I have, as well as give you insight into the person I am and life I lead. If you are interested in what I do or think I can serve you in any way, feel free to reach out on the <a href="contactMe.php">contact page</a>. <br>
     </span>
 </div>
 

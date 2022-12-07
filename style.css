@@ -6,6 +6,32 @@
 .active {
     font-weight: 600;
 }
+.anchorLinks {
+    position: fixed; 
+    background-color: white;
+    width: 100vw;
+    z-index: 3;
+    text-align: center;
+}
+.anchor {
+    cursor: pointer;
+}
+.anchorLinks ul {
+    list-style: none;
+}
+.anchorLinks ul li {
+    display: inline-block;
+    padding: 0.1vh 3vw;
+}
+.anchorLinks ul li.active {
+    background-color: lightgray;
+}
+.anchorLinks ul li.active a {
+    color: black ;
+}
+html {
+    scroll-behavior: smooth;
+}
 
 /* general body */
 h1 {
@@ -182,7 +208,7 @@ a:hover {
     position: static;
     padding-top: 7vh;
     padding-bottom: 7vh;
-    font-size: 2.5vh;
+    font-size: 1.3vw;
 }
 .textDiv {
     width: 35vw;

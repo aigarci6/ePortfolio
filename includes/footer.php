@@ -22,9 +22,41 @@ function reveal() {
         }
     }
 }
-
 //reference youtube video for explanation of reveal function
 // https://www.youtube.com/watch?v=VplDlwLTR50
+
+//moving throughout page using anchors
+let navLinks = document.querySelectorAll('.anchor');
+navLinks.forEach((item) =>{
+    item.addEventListener("click",()=>{
+        let section = document.getElementById(item.getAttribute("data-link"));
+        let head = section.getElementsByClassName("sectionHead");
+        head[0].scrollIntoView({
+            behavior:"smooth",block:"end"});
+    });
+});
+
+//highlighting anchor based on where on page you are
+const sections = document.querySelectorAll('section');
+const navlist = document.querySelectorAll('.anchorLinks ul li');
+window.addEventListener('scroll', ()=>{
+    let current = '';
+    sections.forEach(section =>{
+        const sectionTop = section.offsetTop;
+        const sectionHeight = section.clientHeight;
+        if (pageYOffset >= (sectionTop - sectionHeight/2)){
+            current = section.getAttribute('id');
+
+        }
+    })
+    navlist.forEach (li=>{
+        li.classList.remove('active');
+        if (li.classList.contains(current)){
+             li.classList.add('active');
+        }
+    })
+})
+//https://www.youtube.com/watch?v=RsPWEmfOQdU
 </script>
 </body>
 </html>

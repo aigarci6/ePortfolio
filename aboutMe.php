@@ -5,11 +5,11 @@ require_once "includes/header.php";
 ?>
 
 <div class="variableDiv appear1">
-    <div class="imgDiv reveal revealleft">
+    <div class="imgDiv">
         <span class="helper"></span>
         <img src="images/tempHeadshot.JPG" alt="Axit Garcia Headshot">
     </div>
-    <div class="textDiv reveal revealright">
+    <div class="textDiv">
         <div>
             <h2>Who am I?</h2>
             I am a learner, a follower, a team member, a leader. I am a first generation college student and the son of Immigrant parents, and I seek to continue advancing the success my family has had to get me to where I am. My two focuses are in <b>leadership</b> and <b>computer technologies</b>. <br><br>
@@ -18,25 +18,29 @@ require_once "includes/header.php";
         </div>
     </div>
 </div>
-<div class="galleryImg text-center" style="font-size: 1.5vw; height: 40vh;">
+<div class="variableDiv">
+    <span class=" reveal revealup" style="width: 70%; text-align:center">
     <h2>My Life</h2>
     Being born and raised in Houston, Tx, I have not had the opportunity to see the world like others have, but I am grateful for the life I have been able to experience in my town of Houston, one of the
     biggest and most diverse cities in the nation and the world. The following gallery shows images of my life through time, displaying the opportunities I have had and my growth as time has gone on.
     <br><br>I hope to continue having the opportunity to serve my community and grow as a person, always striving for <b>humility</b> in all my thoughts, <b>approachability</b> in my personality, and <b>credibility</b> in my actions and words.
+    </span>
 </div>
-<div class="mainDiv">
-    <div class="imgElement left">
-        <img src="images/tempHeadshot.JPG" alt="Axit Garcia Headshot">
-    </div>
-    <div class="paraElement right">
-        <div class="small">
-            <h2>My Philosophy</h2>
+<div class="variableDiv">
+    <div class="paraElement left reveal revealleft">
+        <div>
+        <h2>My Philosophy</h2>
             <b>Towards others:</b> Everything you do, do with love. Serve others for their benefit and to improve the situation that they may find themselves in. <br><br>
             <b>Towards myself:</b> Practice virtue in all things. Try your best to not let negative situations affect you, but embrace positive situations for how great they are.
         </div>
     </div>
+    <div class="imgDiv right reveal revealright">
+        <span class="helper"></span>
+        <img src="images/philosophyQuote.png" alt="Axit Garcia Headshot">
+    </div>
 </div>
 
+<h1>Hobbies</h1>
 <div class="mainDiv">
     <div class="paraElement left">
         <div>
