@@ -21,8 +21,7 @@
         <a class="nav-link <?php if ($title == "About Me") {echo 'active';}?>" <?php if ($title == "About Me") {echo 'aria-current="page"';} ?> href="aboutMe.php">About Me</a> _
         <a class="nav-link <?php if ($title == "Professional") {echo 'active';}?>" <?php if ($title == "Professional") {echo 'aria-current="page"';} ?> href="professional.php">Professional</a> _
         <a class="nav-link <?php if ($title == "Academics") {echo 'active';}?>" <?php if ($title == "Academics") {echo 'aria-current="page"';} ?> href="academics.php">Academics</a> _
-        <a class="nav-link <?php if ($title == "Community") {echo 'active';}?>" <?php if ($title == "Community") {echo 'aria-current="page"';} ?> href="community.php">Community</a> _
-        <a class="nav-link <?php if ($title == "Special Events") {echo 'active';}?>" <?php if ($title == "Special Events") {echo 'aria-current="page"';} ?> href="specialEvents.php">Special Events</a> _
+        <a class="nav-link <?php if ($title == "Volunteer") {echo 'active';}?>" <?php if ($title == "Volunteer") {echo 'aria-current="page"';} ?> href="volunteer.php">Volunteer</a> _
         <a class="nav-link <?php if ($title == "Contact Me") {echo 'active';}?>" <?php if ($title == "Contact Me") {echo 'aria-current="page"';} ?> href="contactMe.php">Contact Me</a>
         <a hidden class="nav-link <?php if ($title == "Skills & Hobbies") {echo 'active';}?>" <?php if ($title == "Skills & Hobbies") {echo 'aria-current="page"';} ?> href="skillsAndHobbies.php">Skills & Hobbies</a>
         <a hidden class="nav-link <?php if ($title == "Blog") {echo 'active';}?>" <?php if ($title == "Blog") {echo 'aria-current="page"';} ?> href="blog.php">Blog</a>

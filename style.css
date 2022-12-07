@@ -189,6 +189,11 @@ a:hover {
     height: 70vh;
     background-color: lightgrey;
     margin: 0 15vw;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+.galleryImg.active {
+    opacity: 1;
 }
 .galleryImg img {
     max-width: 63vw;
@@ -214,12 +219,20 @@ a:hover {
     width: 35vw;
     justify-content: center;
 }
+.variableDiv a {
+    color: rgb(0, 102, 170);
+    font-weight: 600;
+}
 .imgDiv {
     width: 35vw;
     justify-content: center;
     position:relative;
     white-space: nowrap;
     text-align: center;
+    color: grey;
+}
+.imgDiv a {
+    color: grey;
 }
 /* https://stackoverflow.com/questions/7273338/how-to-vertically-align-an-image-inside-a-div
 for vertically aligning image */
@@ -229,6 +242,12 @@ for vertically aligning image */
     vertical-align: middle;
 }
 .variableDiv img {
+    max-width: 25vw;
+    max-height: 90%;
+    object-fit: contain;
+    vertical-align: middle;
+}
+.variableDiv video {
     max-width: 25vw;
     max-height: 90%;
     object-fit: contain;

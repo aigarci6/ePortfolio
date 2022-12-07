@@ -14,7 +14,7 @@ require_once "includes/header.php";
 
 <div class="variableDiv appear1 mb-5">
     <span class="" style="width: 80%; text-align:center">
-        My academic interests really kicked off when I went to an intership at Baylor St Lukes Hospital in the Texas Medical Center. Being a first generation college student, I did not really have anyone around me that knew anything about college or academia. My high school was also not the best, but when I interned in that emergency room, I was given the amazing opportunity to interact with highly motivated and educated individuals, such as doctors and nurses. That insight really set me on a path to pursue my academic interests and I have loved the time that I have been at the University of Houston and all that I learned in those short 5 years.
+        My academic interests really kicked off when I went to an intership at Baylor St Lukes Hospital in the Texas Medical Center. Being a first generation college student, I did not really have anyone around me that knew anything about college or academia. My high school was also not the best, but when I interned in that emergency room, I was given the amazing opportunity to interact with highly motivated and educated individuals, such as doctors and nurses. That insight transformed me from the kid that did not care about academics to the person I am today, always seeking to learn the truth. It really set me on a path to pursue my academic interests and I have loved the time that I have been at the University of Houston and all that I learned in these short 5 years.
     </span>
 </div>
 
@@ -23,7 +23,7 @@ require_once "includes/header.php";
         <div class="imgDiv reveal revealleft">
             <span class="helper"></span>
             <img src="images/JUTalkingToMe.jpg" alt="Team member informing me"><br>
-            <p style="color: grey;">Executing Leadership Laboratory to develop <br> our leadership</p>
+            Executing Leadership Laboratory to develop <br> our leadership
         </div>
         <div class="textDiv reveal revealright">
             <div>
@@ -43,7 +43,7 @@ require_once "includes/header.php";
     <div class="variableDiv mb-5">
         <span class="reveal reveallevel" style="width: 80%; text-align:center">
             This minor is more than just education. My time in Air Force ROTC (AFROTC) has been fundamental in the formation of the man I am today. <br><br>
-            Throughout my childhood, I never saw the military as an option. My parents are immigrants for Mexico and I have never been around patriotic individuals that prompted me to consider joining the military. Junior year of high school, I enrolled in the Junior ROTC unit at my high school because my friend asked me to. One day a recruiter came and I remember him talking about special operations and how those individuals were so humble that they would take off their clothes and give it to someone if they needed it. I wanted to be someone like that. I did my research and found out about the combat rescue career field in the Air Force. I applied for and was awarded a scholarship, something I will always be grateful for since it allowed me to pay for college. <br><br>
+            Throughout my childhood, I never saw the military as an option. My parents are immigrants for Mexico and I have never been around patriotic individuals that prompted me to consider joining the military. Junior year of high school, I enrolled in the Junior ROTC unit at my high school because my friend asked me to. One day a recruiter came and I remember him talking about special operations and how those individuals were so humble that they would take off their clothes and give it to someone if they needed it. That event transformed me from not knowing what to do with my life to finally having a goal. I wanted to be someone like that. Someone that served others. I did my research and found out about the combat rescue career field in the Air Force. I applied for and was awarded a scholarship, something I will always be grateful for since it allowed me to pay for college. As life has gone on, my knowledge of the Air Force and the career fields available to me has expanded and I am now slated to become a Cyber Operations Officer. <br><br>
             Since joining AFROTC, I have grown as an individual in many ways and have created life long relationships that I will always be grateful for. It is through the military that I have developed the confidence I have and the work ethic I have developed. Through the military also will I continue to grow as an individual, a team member, and a leader
         </span>
     </div>
@@ -136,7 +136,9 @@ require_once "includes/header.php";
     <div class="variableDiv sectionHead mt-5">
         <span class="reveal reveallevel" style="width: 80%; text-align:center">
         <h2>The Future</h2>
-            In my time in college, I have learned so much that I do not see myself ever stopping to 
+            In my time in college, I have learned so much that I do not see myself ever stopping in the search for truth and knowledge. The growth that I have been able to experiene in my short time in college, especially in just my home town of Houston, Texas, shows me that with more time and the more places I visit, I will continue to develop my life. <br><br>
+            I aim to enhance my leadership as I will be an officer in the United States Air Force. This will be one through constant experience in my job, as well as through a lot of reading as there is so much experience out there that people have made sure to record. <br><br>
+            I also plan to further my computer science knowledge, most likely with a <b>masters</b> in software engineering or in cyber security so that I may become a technical expert in my career field. That techincal knowledge, combined with my leadership, will allow me to direct teams into creating software or using cyber security to meet the strategic objectives of the United States.
         </span>
     </div>
 </section>

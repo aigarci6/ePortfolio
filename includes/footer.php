@@ -32,7 +32,7 @@ navLinks.forEach((item) =>{
         let section = document.getElementById(item.getAttribute("data-link"));
         let head = section.getElementsByClassName("sectionHead");
         head[0].scrollIntoView({
-            behavior:"smooth",block:"end"});
+            behavior:"smooth",block:"center"});
     });
 });
 
@@ -44,7 +44,7 @@ window.addEventListener('scroll', ()=>{
     sections.forEach(section =>{
         const sectionTop = section.offsetTop;
         const sectionHeight = section.clientHeight;
-        if (pageYOffset >= (sectionTop - sectionHeight/2)){
+        if (pageYOffset >= (sectionTop - 200)){
             current = section.getAttribute('id');
 
         }
