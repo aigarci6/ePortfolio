@@ -195,7 +195,7 @@ require_once "includes/header.php";
                     <li>Bootstrap</li>
                     <li>Google Firebase</li>
                 </ul>
-                The projects I have done include this website...
+                The projects I have done include this website, which was made using PHP, javascript, CSS, and bootstrap. You can check the code used for this by looking at <a href="https://github.com/aigarci6/ePortfolio">my github</a>.
             </div>
         </div>
     </div>
