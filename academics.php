@@ -135,7 +135,7 @@ require_once "includes/header.php";
 <section id="future">
     <div class="variableDiv sectionHead mt-5">
         <span class="reveal reveallevel" style="width: 80%; text-align:center">
-        <h2>The Future</h2>
+        <h2>Future Endeavors</h2>
             In my time in college, I have learned so much that I do not see myself ever stopping in the search for truth and knowledge. The growth that I have been able to experiene in my short time in college, especially in just my home town of Houston, Texas, shows me that with more time and the more places I visit, I will continue to develop my life. <br><br>
             I aim to enhance my leadership as I will be an officer in the United States Air Force. This will be one through constant experience in my job, as well as through a lot of reading as there is so much experience out there that people have made sure to record. <br><br>
             I also plan to further my computer science knowledge, most likely with a <b>masters</b> in software engineering or in cyber security so that I may become a technical expert in my career field. That techincal knowledge, combined with my leadership, will allow me to direct teams into creating software or using cyber security to meet the strategic objectives of the United States.

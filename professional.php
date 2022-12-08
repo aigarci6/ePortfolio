@@ -71,7 +71,7 @@ require_once "includes/header.php";
             The Cadet Operations Group Commander is the highest position that can be given to a member of the Air Force ROTC unit. When I was given this opportunity, I had experience leading at a team level but not at an organizational level. Using the experiences I had learned as a team leader, I knew that I had to set a clear vision and set the pace in the beginning. What I came to learn is that it was no longer about what I could do, but about what I could <b>inspire my team</b> to do. <br><br>
             One of the first lessons I learned was that of <b>consistency</b>. My job as the commander was to focus my unit on what is important and a very easy way to do that is by getting everyone into a strong routine. <br><br>
             Another lesson was in <b>fairness</b>. We are a military organization comprised of students, meaning everyone is extremely busy. In my time in AFROTC, I had seen how unevenly work was distributed to certain cadet officers in the unit. To combat this, I set up a mentorship program where every cadet officer in the unit was in charge of 2-3 cadets, eliminating positions where some cadet officers were in charge of over 10 cadets and other in charge of none. This also served to <b>empower</b> my team, making everyone feel that they played a key part in the organization. <br><br>
-            My job was not to micro manage but to make everyone in the unit feel like they had <b>purpose</b> and that they were heard by me. I used skills like those earned in my honors leadership minor to make sure that meetings went as smoothly as they could and so that my people were developed to their full potential. 
+            My job was not to micro manage but to make everyone in the unit feel like they had <b>purpose</b> and that they were heard by me. I used skills like those earned in my honors leadership minor to make sure that meetings went as smoothly as they could and so that my people were developed to their full potential.
             <br><br>One very important lesson of teamwork that I learned was that a good plan executed with passion is better than a perfect plan executed poorly. As commander, I was the one making decisions and many times I felt that my plans were better than the ones my team came up with but it was important to give them some control and decision making so that they would be invested in the process, not just doing it because I told them to. <br><br>
             The position is a very complicated one to execute perfectly, especially since everyone in the unit is a student. I tried getting people to participate in workout challenges and promote volunteer events, however participation could not be increased due to having other commitments and objectives to meet. That failure taught me to <b>prioratize</b> what matter most. Another struggle was the fact that I was in charge of the entire team under me, but there were still those in charge of me. All decision I made had to go with the vision they had provided me, and all that my team did I had to be able to answer to them for. Being commander is a very tricky balance and experience that I loved for all that I learned from it and all that I was able to help my unit do. <br><br>
             I will always be grateful for the team I had while I was commander and for the effort they placed into carrying out the mission.
@@ -122,7 +122,9 @@ require_once "includes/header.php";
     </div>
     <div class="variableDiv">
         <span class="reveal reveallevel" style="width: 80%; text-align:center">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aliquam, impedit perferendis sapiente, placeat ab dolorem dolor, tempora consequatur blanditiis minima alias voluptatem sed. Quidem alias assumenda et perferendis quisquam.
+            If you have ever jumped out a plane, you know how terrifying it can be. Now imagine jumping out of a plane by yourself you're fourth time ever being on a plane. That was the situation I found myself in as an 18 year old at 4500 feet above ground level. The program was extremely fast paced, preparing us in one week of groundschool for 5 freefall jumps. <br><br>
+            During training week, we would start the day by getting on the bus to go to the air field at 4 am. The days would easily be over 12 hours of training and when we got back to our dorms, we would practice what we had learned during the day. Being in an environment where everyone is so focused on training is an amazing experience that really showed me the importance of environment and helped me understand that creating an environment like that in my life is very important. <br><br>
+            The first jump was terrifying. Seeing the first cadet jump out of my plane made my stomach drop. Once it was my turn, the jump master told me to jump and my senses got overloaded. All I remember is seeing black and feeling my body move through space. My muscle memory took over and then, all of a sudden, a parachute was over my head. The jumps remained scary until the 4th jump, where they started getting fun. Unforunately, I we only got to jump 5 times but it was a most amazing experience of my life that I have very fond memories of. It continues to inspire me to know that if I was able to get through that, I can get through whatever challenge is in front of me.
         </span>
     </div>
 </section>
@@ -160,8 +162,8 @@ require_once "includes/header.php";
         <div class="textDiv reveal revealleft left">
             <div>
                 <h2>CHI St. Luke's Health High School Summer Personal Care Assistant Externship - Summer 2018</h2>
-                I was 1 of 50 AFROTC cadets chosen nationwide to attend AFAFF, a program where we jump out of a plane 5 times to earn our military wings. <br><br>
-                The cirriculum was composed of 1 week of intense training, practice, and evaluation, followed by the second week being composed of the actual jumps. The program is one of, if not the only, programs where your first jump is completely solo.
+                In the summer directly after graduating from high school, I participated in this externship where I was assigned to the Emergency Department as a Personal Care Assistant. After training, we worked the entire summer, monday through friday, from 7 in the morning to 3 in the afternoon. I did not have a car that I could drive, so I would have to wake up at 4:30 and take the bus to get there in time. Coming back home, I would also have to take the bus so I would be out of my home every day for at least 12 hours. This was the first time that I worked a full time job and it was an amazing experience that prepared me for the time I would have to dedicate to college.
+                <br><br>My duties included assisting with patient care, helping them meet their nutritional and elimination needs, moving patients around the hospital, promoting a safe and clean environment, hygiene and grooming, and many more tasks that the nurses and doctors would ask me to do.
             </div>
         </div>
         <div class="imgDiv reveal revealright right">
@@ -172,19 +174,22 @@ require_once "includes/header.php";
     </div>
     <div class="variableDiv">
         <span class="reveal reveallevel" style="width: 80%; text-align:center">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aliquam, impedit perferendis sapiente, placeat ab dolorem dolor, tempora consequatur blanditiis minima alias voluptatem sed. Quidem alias assumenda et perferendis quisquam.
+            Being an 17 year old when I first started the program, it was a huge eye opener being able to work with individuals with the health complications that I saw there. I would also be put in charge of watching suicidal patients to make sure they did not hurt themselves. Never before had I seen the execution of such high achieving teams, especially in the moments when there would be time sensitive emergencies. Watching situations like those seemed like controlled chaos. The doctor would be instructing all the nurses with what medications he needed. The nurses would be running around getting supplies and would even tell me to take vitals so it felt like I was really a part of something important, even if what I was doing was the simplest task there. <br><br>
+            The externship inspired me to become a doctor. It showed me how amazing the work that one could do if they educated themselves and dedicated their profession to helping others. At the end of the externship, I was hired by the emergency department as a permanent employee, meaning I would now be working 12 hour shifts. Unfortunately I was not able to continue this once I started my university studies. <br><br>
+            Although I am no longer interested in going to medical school, this externship played a pivotal role in my academic and professional career. It introduced me to a world of high achievers and taught me how to take care of others. The lessons learned there I try to practice every day.
         </span>
     </div>
 </section>
 
 <section id="software">
     <h1 class="text-center sectionHead">Software</h1>
-    <div class="mainDiv">
-        <div class="imgElement left">
-            <img src="images/codingUnsplashImg.jpg" alt="Computer setup image">
+    <div class="variableDiv reveal reveallevel">
+        <div class="imgDiv reveal revealleft left">
+            <span class="helper"></span>
+            <img src="images/codingUnsplashImg.jpg" alt="Computer setup image"><br>
             <a href="https://unsplash.com/photos/DuHKoV44prg" target="_blank">Image Source</a>
         </div>
-        <div class="paraElement right">
+        <div class="textDiv reveal revealright right">
             <div>
                 <h2>Web Design</h2>
                 I have worked with:
@@ -195,8 +200,21 @@ require_once "includes/header.php";
                     <li>Bootstrap</li>
                     <li>Google Firebase</li>
                 </ul>
-                The projects I have done include this website, which was made using PHP, javascript, CSS, and bootstrap. You can check the code used for this by looking at <a href="https://github.com/aigarci6/ePortfolio">my github</a>.
+                The projects I have done include this website, which was made using PHP, javascript, CSS, and bootstrap. Here is <a href="https://github.com/aigarci6/" target="_blank">my github</a> although most of my projects are private.
             </div>
+        </div>
+    </div>
+    <div class="variableDiv reveal reveallevel">
+        <div class="textDiv reveal revealleft left">
+            <div>
+                <h2>IOS Devolopment</h2>
+                I have experience with swift, kickstarted by the course "Introduction to Ubiquitous Design." I am currently developing a workout planner application and will keep this page updated on my progress with the product.
+            </div>
+        </div>
+        <div class="imgDiv reveal revealright right">
+            <span class="helper"></span>
+            <img src="images/ExGTLogo.png" alt="The current logo for my application"><br>
+            The current logo for my application
         </div>
     </div>
 </section>
