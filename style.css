@@ -197,7 +197,7 @@ a:hover {
 }
 .galleryImg img {
     max-width: 63vw;
-    height: 63vh;
+    height: 60vh;
     margin: 3.5vh 35vw;
     object-fit: cover;
     transform: translateX(-50%);

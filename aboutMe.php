@@ -21,7 +21,7 @@ require_once "includes/header.php";
         <div class="textDiv">
             <div>
                 <h2 class="sectionHead">Who am I?</h2>
-                I am a learner, a follower, a team member, a leader. I am a first generation college student and the son of Immigrant parents, and I seek to continue advancing the success my family has had to get me to where I am. My two focuses are in <b>leadership</b> and <b>computer technologies</b>. <br><br>
+                I am a learner, a follower, a team member, a leader. I am a first generation college student and the son of immigrant parents, and I seek to continue advancing the success my family has had to get me to where I am. My two focuses are in <b>leadership</b> and <b>computer technologies</b>. <br><br>
                 As a striving leader, my goal is to create a cohesive unit in any activity/organization that I may find myself in. I do this by employing the leadership experiences I have had, emotional intelligence, patience, and focusing on serving others. <br><br>
                 As a computer scientist, my goal is to maximize the capabilites that technology has to offer. My interests include software engineering to create products with purpose, artifical intelligence to automate tasks and enhance productivity, and cyber sercurity to make sure we are safe in the digital age.
             </div>
@@ -146,15 +146,18 @@ require_once "includes/header.php";
 <section id="gallery">
     <div class="scroll-container sectionHead">
         <div class="galleryImg">
-            <img src="images/freeFallPlaneSide.PNG" alt="Hanging off side of plane at the academy">
+            <img src="images/freeFallPlaneSide.PNG" alt="Hanging off side of plane at the academy"><br>
+            <p class="text-center">Hanging off a grounded plane at the Air Force Academy</p>
         </div>
 
         <div class="galleryImg">
-            <img src="images/freeFall.jpg" alt="Free Fall at the Air Force Academy">
+            <img src="images/freeFall.jpg" alt="Free Fall at the Air Force Academy"><br>
+            <p class="text-center">With my team mates after a free fall jump</p>
         </div>
 
         <div class="galleryImg">
-            <img src="images/diningInPOWMIA.JPEG" alt="POW/MIA Ceremony">
+            <img src="images/diningInPOWMIA.JPEG" alt="POW/MIA Ceremony"><br>
+            <p class="text-center">POW/MIA Ceremony at an AFROTC Dining Out</p>
         </div>
     </div>
 </section>
