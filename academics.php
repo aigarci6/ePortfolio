@@ -20,12 +20,7 @@ require_once "includes/header.php";
 
 <section id="aflead">
     <div class="variableDiv reveal reveallevel mt-5 sectionHead">
-        <div class="imgDiv reveal revealleft">
-            <span class="helper"></span>
-            <img src="images/JUTalkingToMe.jpg" alt="Team member informing me"><br>
-            Executing Leadership Laboratory to develop <br> our leadership
-        </div>
-        <div class="textDiv reveal revealright">
+        <div class="textDiv reveal left revealleft">
             <div>
                 <h2>Air Force Leadership</h2>
                 The minor needed to become an officer in the Air Force through Air Force ROTC. It's most important component is Leadership Laboratory where we get hands on experience in all things <b>leading</b> and <b>teamwork</b>. <br><br>
@@ -39,6 +34,11 @@ require_once "includes/header.php";
                 <li>Teaching Capabilities</li>
             </div>
         </div>
+        <div class="imgDiv reveal right revealright">
+            <span class="helper"></span>
+            <img src="images/JUTalkingToMe.jpg" alt="Team member informing me"><br>
+            Executing Leadership Laboratory to develop <br> our leadership
+        </div>
     </div>
     <div class="variableDiv mb-5">
         <span class="reveal reveallevel" style="width: 80%; text-align:center">
@@ -51,12 +51,12 @@ require_once "includes/header.php";
 
 <section id="cosc">
     <div class="variableDiv reveal reveallevel sectionHead">
-        <div class="imgDiv reveal revealleft">
+        <div class="imgDiv reveal left revealleft">
             <span class="helper"></span>
             <img src="images/glassesAndComputers.jpg" alt="Glasses with computers in the background"><br>
             <a href="https://unsplash.com/photos/w7ZyuGYNpRQ" target="_blank">Image Source</a>
         </div>
-        <div class="textDiv reveal revealright">
+        <div class="textDiv reveal right revealright">
             <div>
                 <h2>Computer Science B.S.</h2>
                 <b>Aug 2018 - May 2023</b><br>
