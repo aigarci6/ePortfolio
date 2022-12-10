@@ -15,13 +15,13 @@ require_once "includes/header.php";
         <div>
             I am a student at the University of Houston studying Computer Science, Honors Leadership studies, and Air Force Leadership studies. <br><br>
             As a cadet in the Air Force Reserve Officer Training Corps (AFROTC), I have earned great experience in leadership and grown in my appreciation for team work, public speaking, and initiative. Particularly important to creating me as a leader is my time as the Cadet Operatons Group Commander, which you can find on the <a href="professional.php#cog">Professional</a> page.
-            <br><br>As a computer science student, I have gained technical insight into the virtual world of computers and have worked with a wide array of languages and computer science fields. Being a first generation college student, I did not go into high school really considering college or knowing what I wanted to do with my life. You can find out more about my journey into becoming a student on the <a href="academics.php">Academics</a> page.
+            <br><br>As a computer science student, I have gained technical insight into the virtual world of computers and have worked with a wide array of languages and computer science fields. Being a first generation college student, I did not go into high school seriously considering college or knowing what I wanted to do with my life. You can find out more about my journey into becoming a student on the <a href="academics.php">Academics</a> page.
         </div>
     </div>
 </div>
 <div class="variableDiv reveal revealup">
     <span class="" style="width: 70%; text-align:center">
-    As you look through my E-portfolio, I hope to portray the passion I have, as well as give you insight into the person I am and life I lead. If you are interested in what I do or think I can serve you in any way, feel free to reach out on the <a href="contactMe.php">contact page</a>. <br>
+    As you look through my E-portfolio, I hope to portray the passion I have, as well as give you insight into the person I am and the life I lead. If you are interested in what I do or believe I can serve you in any way, feel free to reach out on the <a href="contactMe.php">contact page</a>. <br>
     </span>
 </div>
 

@@ -7,7 +7,7 @@ require_once "includes/header.php";
 <div class="variableDiv">
     <span class="appear1" style="width: 70%; text-align:center">
         Giving back to the community is something very important to me, particularly in things that help create the future generations.
-        One day we will be gone but the community will go on. I hope to all that so that that community has all it needs to prosper. <br><br>
+        One day we will be gone, but the community will go on. I hope to do all that I can so that that community has all it needs to prosper. <br><br>
         "Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime." - Origin Unknown
     </span>
 </div>
@@ -29,7 +29,7 @@ require_once "includes/header.php";
                 <li>Volunteer event coordination</li>
                 <li>Fundraisers</li>
             </ul>
-            Through my involvement in this program, I have developed a great sense of community and responsability for helping the next generation reach their full potential.
+            Through my involvement in this program, I have developed a great sense of community and responsibility for helping the next generation reach their full potential.
         </div>
     </div>
 </div>
@@ -37,7 +37,7 @@ require_once "includes/header.php";
     <div class="paraElement left reveal revealleft">
         <div>
             <h2>Cadet Leadership Course (CLC)</h2>
-            CLC is a week long event in collaberation between the High School Air Force Junior ROTC units of the greater houston area and the University of Houston's Air Force ROTC program. The college cadets act as the Cadet <b>Training Officers</b> (CTOs) of the junior cadets, <b>developing</b> the junior cadets through the application of:
+            CLC is a week long event in collaboration between the High School Air Force Junior ROTC units of the Greater Houston Area and the University of Houston's Air Force ROTC program. The college cadets act as the Cadet <b>Training Officers</b> (CTOs) of the junior cadets, <b>developing</b> the junior cadets through the application of:
             <ul>
                 <li>Mentorship</li>
                 <li>Controlled stress application</li>
@@ -70,7 +70,7 @@ require_once "includes/header.php";
     <div class="paraElement left reveal revealleft">
         <div>
             <h2>Recruiting</h2>
-            I decided to join the military due to a national guard recruiter coming to speak to us at my high school Junior ROTC unit. I hope to provide current high schooler with that same opportunity of learning what options are out there and inspire them to always strive to do more with the cards they have been dealt.
+            I decided to join the military due to a national guard recruiter coming to speak to us at my high school Junior ROTC unit. I hope to provide current high schoolers with that same opportunity of learning what options are out there and inspire them to always strive to do more with the cards they have been dealt.
         </div>
     </div>
     <div class="imgDiv right reveal revealright">

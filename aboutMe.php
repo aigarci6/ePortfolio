@@ -20,9 +20,9 @@ require_once "includes/header.php";
         </div>
         <div class="textDiv">
             <div>
-                <h2 class="sectionHead">Who am I?</h2>
+                <h2 class="sectionHead">Who Am I?</h2>
                 I am a learner, a follower, a team member, a leader. I am a first generation college student and the son of immigrant parents, and I seek to continue advancing the success my family has had to get me to where I am. My two focuses are in <b>leadership</b> and <b>computer technologies</b>. <br><br>
-                As a striving leader, my goal is to create a cohesive unit in any activity/organization that I may find myself in. I do this by employing the leadership experiences I have had, emotional intelligence, patience, and focusing on serving others. <br><br>
+                As a striving leader, my goal is to create a cohesive unit in any activity/organization that I may find myself in. I do this by employing the leadership experiences I have had, emotional intelligence, patience, and focus on serving others. <br><br>
                 As a computer scientist, my goal is to maximize the capabilites that technology has to offer. My interests include software engineering to create products with purpose, artifical intelligence to automate tasks and enhance productivity, and cyber sercurity to make sure we are safe in the digital age.
             </div>
         </div>
@@ -30,10 +30,10 @@ require_once "includes/header.php";
     <div class="variableDiv">
         <span class=" reveal revealup" style="width: 70%; text-align:center">
             <h2>My Life</h2>
-            Being born and raised in Houston, Tx, I have not had the opportunity to see the world like others have, but I am grateful for the life I have been able to experience in my town of Houston, one of the
+            Being born and raised in Houston, TX, I am grateful for the life I have been able to experience in my home town, one of the
             biggest and most diverse cities in the nation and the world. A big part of my indentity is that of integrity and the american dream.
             <br><br>I try my best to have integrity in all that I do, especially when it is hardest, for one is not defined by what they do when things are easy, but what they do when they are challeged.
-            <br><br>My parents both grew up very poor and came to the United States to make a better life for themselves and to help out their family. They have done very well for themselves and I have been extremely blessed to have a family with a stable home and stable income. While I did not have to go through their struggles, I saw all that they did to get us to where we are and I do not plan on wasting my life, but rather continuing that american dream and doing all that I can out of the amazing situation that I have been given.
+            <br><br>My parents both grew up very poor and came to the United States to make a better life for themselves and to help out their family. They have done very well for themselves and I have been extremely blessed to have a family with a stable home and stable income. While I did not have to go through their struggles, I saw all that they did to get us to where we are and I do not plan on wasting my life, but rather continuing that American Dream and doing all that I can out of the amazing situation that I have been given.
             <br><br>I hope to continue having the opportunity to serve my community and grow as a person, always striving for <b>humility</b> in all my thoughts, <b>approachability</b> in my personality, and <b>credibility</b> in my actions and words.
         </span>
     </div>
@@ -65,7 +65,7 @@ require_once "includes/header.php";
             <div>
                 <h2>Photography</h2>
                 I enjoy seeing life from an artistic point of view, aiming to capture scenes for their beauty and be able to have a recollection through time of my life using images.
-                I am by no means a professional but I have taken graduation, engangement, and organizational photos and I enjoy the artistic side it lets me express, as well as being able to provide others with images they like of themselves.
+                I am by no means a professional but I have taken graduation, engangement, and organizational photos and I enjoy the artistic side it lets me express, as well as being able to provide others with captured memories.
             </div>
         </div>
         <div class="imgDiv right reveal revealright">
@@ -101,7 +101,7 @@ require_once "includes/header.php";
         <div class="paraElement left reveal revealleft">
             <div>
                 <h2>Ironman 70.3</h2>
-                The ironman 70.3, also known as a Half Ironman, is a long distance triathlon event consisting of the follwing events (including my times for completion):
+                The Ironman 70.3, also known as a Half Ironman, is a long distance triathlon event consisting of the follwing events (including my times for completion):
                 <div style="display: flex;">
                     <div style="width: 40%;">
                         <ul>
@@ -116,7 +116,7 @@ require_once "includes/header.php";
                         (02:28:25)
                     </div>
                 </div>
-                While my times are not the greatest, it provided a great challenge as I recieved an injury to my foot recently before completing it and had to get back into an exercise routine very quickly. The long time the event takes gave me the opportunity to strongly reflect, especially in a tired state. I have signed up for the next annual Texas Ironman 70.3 with the goal of improving my time and pushing myself farther than I ever have before.
+                The experience was a great test of my commitment as I had less than ideal time to train due to recovering from a fractured  foot 3 months prior to the race. The 6+ plus hours I spent in a mentally and physically challenging state, allowed me the opportunity to reflect on my limits, my motivations, and my why. I look forward to doing it again and have registered for the next annual Texas Ironman 70.3 with the goal of improving my time and pushing myself farther than I ever have before.
             </div>
         </div>
         <div class="imgDiv right reveal revealright">
@@ -152,7 +152,7 @@ require_once "includes/header.php";
 
         <div class="galleryImg">
             <img src="images/freeFall.jpg" alt="Free Fall at the Air Force Academy"><br>
-            <p class="text-center">With my team mates after a free fall jump</p>
+            <p class="text-center">With my teammates after a free fall jump</p>
         </div>
 
         <div class="galleryImg">

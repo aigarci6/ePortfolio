@@ -30,7 +30,7 @@ require_once "includes/header.php";
             <div>
                 <h2>Chief Cadet Training Officer<br>(Chief CTO) - Summer 2022</h2>
                 Served as Chief CTO, leading a team of 15 fellow CTOs in running a weeklong basic training-like camp for over 300 high schoolers. <br>
-                Goal of the camp is to <b>develop</b> the <b>teamwork and leadership</b> capabilities of the Junior Cadets. <br><br>
+                Goal of the camp is to <b>develop</b> the <b>teamwork and leadership</b> capabilities of the junior cadets. <br><br>
                 As Chief CTO, I developed multi-faceted leadership, having to balance:
                 <ul>
                     <li>Directions from the instructors (the people overseeing the camp)</li>
@@ -42,9 +42,9 @@ require_once "includes/header.php";
     </div>
     <div class="variableDiv">
         <span class="reveal reveallevel" style="width: 80%; text-align:center">
-            I had done 3 Cadet Leadership Courses prior to the one in 2022. This one was the first where I was the one given the role of Chief CTO, placing me responsible for all that me and my fellow CTO's were in charge of doing. Not only was this the first CLC that I would be leading, but it was the first full CLC in over 2 years due to the COVID-19 pandemic. Everyone was coming into the situation anxious and excited to do something very complex that had not been done in a very long time.
-            <br><br>I knew how tired everyone would get. We typically get around 4 hours of sleep every night for a week straight. My job was to not only make sure that the high school cadets recieved exceptional training, but that my CTO's were aware of their expectations and maintained their health, both physical and emotional. Building upon my experience as the Cadet Group Commander, I knew it was vital that I be a strong liason between the instructors and my CTO's. Also important was making sure that work was spread out evenly and no one felt that they were doing more work than others as tensions were already high due to everyone being tired. <br><br id="cog">
-            I was very blessed to have a dedicated team that understood the importance of developing the high schoolers into "citizens of character", as the Junior ROTC mission statement conveys. Every CLC I have done has been very special, however this one has been the one that I have cherished most for the experience I gained and the people I was directly in charge of helping.
+            I had done 3 Cadet Leadership Courses (CLC), the name of the camp, prior to the one in 2022. This CLC was the first one where I given the role of Chief CTO and made responsible for all the CTO Team activites and duties. Not only was this the first CLC that I would be leading, but it was the first full CLC in over 2 years due to the COVID-19 pandemic. Everyone was coming into the situation anxious and excited to do something very complex that had not been done in a very long time.
+            <br><br>I knew how tired everyone would get. We typically work 20 hour days for a week straight. My job was to not only make sure that the high school cadets recieved exceptional training, but that my CTO's were aware of their expectations and maintained their health, both physical and emotional. Building upon my experience as the Cadet Group Commander, I knew it was vital that I be a strong liason between the instructors and my CTO's. Also important was making sure that work was spread out evenly and no one felt that they were doing more work than others as tensions were already high due to everyone being fatigued. <br><br id="cog">
+            I was blessed to have a dedicated team that understood the importance of developing the high schoolers into "citizens of character", as the Junior ROTC mission statement conveys. Every CLC I have done has been special, however this one has been the one that I have cherished most for the experience I gained and the people I was directly in charge of helping.
         </span>
     </div>
     <div class="variableDiv reveal reveallevel">
@@ -54,7 +54,7 @@ require_once "includes/header.php";
                 Served as the commander of the Air Force Reserve Officer Training Corps (AFROTC) at the University of Houston, becoming responsible for all activities performed by the unit. <br><br>
                 The tasks I performed included:
                 <ul>
-                    <li>Creating written <b>guidance and directing</b> a culture within the unit such as in this <a href="pdfView.php?pdf=documents/OPLANSpring2022.pdf">Operational Plan</a> that I created to direct the group in my time as commander</li>
+                    <li>Creating written <b>guidance</b> and <b>directing</b> a culture within the unit such as in this <a href="pdfView.php?pdf=documents/OPLANSpring2022.pdf">Operational Plan</a> that I created to direct the group in my time as commander</li>
                     <li><b>Delegating authority</b> and tasks to the cadet group to ensure tasks and objectives are met</li>
                     <li>Serving as <b>liason</b> between the cadet group and the active duty officers that oversee us</li>
                 </ul>
@@ -72,8 +72,8 @@ require_once "includes/header.php";
             One of the first lessons I learned was that of <b>consistency</b>. My job as the commander was to focus my unit on what is important and a very easy way to do that is by getting everyone into a strong routine. <br><br>
             Another lesson was in <b>fairness</b>. We are a military organization comprised of students, meaning everyone is extremely busy. In my time in AFROTC, I had seen how unevenly work was distributed to certain cadet officers in the unit. To combat this, I set up a mentorship program where every cadet officer in the unit was in charge of 2-3 cadets, eliminating positions where some cadet officers were in charge of over 10 cadets and other in charge of none. This also served to <b>empower</b> my team, making everyone feel that they played a key part in the organization. <br><br>
             My job was not to micro manage but to make everyone in the unit feel like they had <b>purpose</b> and that they were heard by me. I used skills like those earned in my honors leadership minor to make sure that meetings went as smoothly as they could and so that my people were developed to their full potential.
-            <br><br>One very important lesson of teamwork that I learned was that a good plan executed with passion is better than a perfect plan executed poorly. As commander, I was the one making decisions and many times I felt that my plans were better than the ones my team came up with but it was important to give them some control and decision making so that they would be invested in the process, not just doing it because I told them to. <br><br>
-            The position is a very complicated one to execute perfectly, especially since everyone in the unit is a student. I tried getting people to participate in workout challenges and promote volunteer events, however participation could not be increased due to having other commitments and objectives to meet. That failure taught me to <b>prioratize</b> what matter most. Another struggle was the fact that I was in charge of the entire team under me, but there were still those in charge of me. All decision I made had to go with the vision they had provided me, and all that my team did I had to be able to answer to them for. Being commander is a very tricky balance and experience that I loved for all that I learned from it and all that I was able to help my unit do. <br><br>
+            <br><br>One very important lesson of teamwork that I learned was that a good plan executed with passion is better than a perfect plan executed poorly. As commander, I was the one making decisions and many times I felt that my plans were better than the ones my team came up with but it was important to give them some control and decision-making so that they would be invested in the process, not just doing it because I told them to. <br><br>
+            The position is a very complicated one to execute perfectly, especially since everyone in the unit is a student. I tried getting people to participate in workout challenges and promote volunteer events, however participation could not be increased due to having other commitments and objectives to meet. That failure taught me to <b>prioritize</b> what matter most. Another struggle was the fact that I was the primary decision maker but was restricted within the bounds of those above me in the chain of command. All decisions I made had to go with the vision my commander had provided me, and I had to be able to answer for all that my team did to my commander. Being commander is a tricky balance and experience that I loved for all that I learned from it and all that I was able to help my unit do. <br><br>
             I will always be grateful for the team I had while I was commander and for the effort they placed into carrying out the mission.
 
         </span>
@@ -86,15 +86,15 @@ require_once "includes/header.php";
         </div>
         <div class="textDiv reveal revealright right">
             <div>
-                <h2>Field Training<br>Distinguished Graduate - Summer 2021</h2>
-                Field training is the 2 week training that all AFROTC cadets go through to get <b>evaluated</b> in their <b>leadership</b> capabilities within a controlled military environment. <br><br>
+                <h2>Field Training Distinguished Graduate - Summer 2021</h2>
+                Field Training is the 2-week training that all AFROTC cadets go through to get <b>evaluated</b> in their <b>leadership</b> capabilities within a controlled military environment. <br><br>
                 Evaluations consists of
                 <ul>
-                    <li>academics, including full knowledge of the <a href="pdfView.php?pdf=documents/FTM_21.pdf">Field Training Manual (FTM)</a></li>
-                    <li>physical fitness</li>
-                    <li>mission planning</li>
-                    <li>combat leadership scenerios</li>
-                    <li>medical procedures</li>
+                    <li>Academics, including full knowledge of the <a href="pdfView.php?pdf=documents/FTM_21.pdf">Field Training Manual (FTM)</a></li>
+                    <li>Physical fitness</li>
+                    <li>Mission planning</li>
+                    <li>Combat leadership scenerios</li>
+                    <li>Medical procedures</li>
                 </ul>
                 I was recognized as a distinguished graduate, ranking <b>37 out of 570</b> cadets at the camp.
             </div>
@@ -111,7 +111,7 @@ require_once "includes/header.php";
             <div>
                 <h2>Air Force Academy Free Fall<br>(AFAFF) - Summer 2019</h2>
                 I was 1 of 50 AFROTC cadets chosen nationwide to attend AFAFF, a program where we jump out of a plane 5 times to earn our military wings. <br><br>
-                The cirriculum was composed of 1 week of intense training, practice, and evaluation, followed by the second week being composed of the actual jumps. The program is one of, if not the only, programs where your first jump is completely solo.
+                The curriculum was composed of 1 week of intense training, practice, and evaluation, followed by the second week being composed of the actual jumps. The program is one of, if not the only, programs where your first jump is completely solo.
             </div>
         </div>
         <div class="imgDiv reveal revealright right">
@@ -122,9 +122,9 @@ require_once "includes/header.php";
     </div>
     <div class="variableDiv">
         <span class="reveal reveallevel" style="width: 80%; text-align:center">
-            If you have ever jumped out a plane, you know how terrifying it can be. Now imagine jumping out of a plane by yourself you're fourth time ever being on a plane. That was the situation I found myself in as an 18 year old at 4500 feet above ground level. The program was extremely fast paced, preparing us in one week of groundschool for 5 freefall jumps. <br><br>
-            During training week, we would start the day by getting on the bus to go to the air field at 4 am. The days would easily be over 12 hours of training and when we got back to our dorms, we would practice what we had learned during the day. Being in an environment where everyone is so focused on training is an amazing experience that really showed me the importance of environment and helped me understand that creating an environment like that in my life is very important. <br><br>
-            The first jump was terrifying. Seeing the first cadet jump out of my plane made my stomach drop. Once it was my turn, the jump master told me to jump and my senses got overloaded. All I remember is seeing black and feeling my body move through space. My muscle memory took over and then, all of a sudden, a parachute was over my head. The jumps remained scary until the 4th jump, where they started getting fun. Unforunately, I we only got to jump 5 times but it was a most amazing experience of my life that I have very fond memories of. It continues to inspire me to know that if I was able to get through that, I can get through whatever challenge is in front of me.
+            If you have ever jumped out a plane, you know how terrifying it can be. Now imagine jumping out of a plane by yourself your  fourth time ever being on a plane. That was the situation I found myself in as an 18 year old at 4500 feet above ground level. Ironically, I had never been on a plane prior to joining the Air Force. The program was extremely fast paced, preparing us in one week of groundschool for 5 freefall jumps. <br><br>
+            During training week, we would start the day by getting on the bus to go to the air field at 4AM. The days would easily be over 12 hours of training and when we got back to our dorms, we would practice what we had learned during the day. Being in an environment where everyone is so focused on training is an amazing experience that really showed me the importance of environment and helped me understand that creating an environment like that in my life is very important. <br><br>
+            The first jump was terrifying. Seeing the first cadet jump out of my plane made my stomach drop. Once it was my turn, the jump master told me to jump and my senses got overloaded. All I remember is seeing black and feeling my body move through space. My muscle memory took over and then, all of a sudden, a parachute was over my head. The jumps remained scary until the 4th jump, where they started getting fun. Unforunately, we only got to jump 5 times but it was a most amazing experience of my life that I have fond memories of. It continues to inspire me to know that if I was able to get through that, I can get through whatever challenge is in front of me.
         </span>
     </div>
 </section>
@@ -162,7 +162,7 @@ require_once "includes/header.php";
         <div class="textDiv reveal revealleft left">
             <div>
                 <h2>CHI St. Luke's Health High School Summer Personal Care Assistant Externship - Summer 2018</h2>
-                In the summer directly after graduating from high school, I participated in this externship where I was assigned to the Emergency Department as a Personal Care Assistant. After training, we worked the entire summer, monday through friday, from 7 in the morning to 3 in the afternoon. I did not have a car that I could drive, so I would have to wake up at 4:30 and take the bus to get there in time. Coming back home, I would also have to take the bus so I would be out of my home every day for at least 12 hours. This was the first time that I worked a full time job and it was an amazing experience that prepared me for the time I would have to dedicate to college.
+                In the summer directly after graduating from high school, I participated in this externship where I was assigned to the Emergency Department as a Personal Care Assistant. After training, we worked the entire summer, Monday through Friday, from 7 in the morning to 3 in the afternoon. I did not have a car that I could drive, so I would have to wake up at 4:30 and take the bus to get there in time. Coming back home, I would also have to take the bus so I would be out of my home every day for at least 12 hours. This was the first time that I worked a full time job and it was an amazing experience that prepared me for the time I would have to dedicate to college.
                 <br><br>My duties included assisting with patient care, helping them meet their nutritional and elimination needs, moving patients around the hospital, promoting a safe and clean environment, hygiene and grooming, and many more tasks that the nurses and doctors would ask me to do.
             </div>
         </div>
@@ -200,7 +200,7 @@ require_once "includes/header.php";
                     <li>Bootstrap</li>
                     <li>Google Firebase</li>
                 </ul>
-                The projects I have done include this website, which was made using PHP, javascript, CSS, and bootstrap. Here is <a href="https://github.com/aigarci6/" target="_blank">my github</a> although most of my projects are private.
+                The projects I have done include this website, which was made using PHP, Javascript, CSS, and Bootstrap. Here is <a href="https://github.com/aigarci6/" target="_blank">my github</a> although most of my projects are private.
             </div>
         </div>
     </div>
@@ -208,7 +208,7 @@ require_once "includes/header.php";
         <div class="textDiv reveal revealleft left">
             <div>
                 <h2>IOS Devolopment</h2>
-                I have experience with swift, kickstarted by the course "Introduction to Ubiquitous Design." I am currently developing a workout planner application and will keep this page updated on my progress with the product.
+                I have experience with Swift kickstarted by the course "Introduction to Ubiquitous Design." I am currently developing a workout planner application and will keep this page updated on my progress with the product.
             </div>
         </div>
         <div class="imgDiv reveal revealright right">
