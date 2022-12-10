@@ -9,7 +9,7 @@ require_once "includes/header.php";
 <div class="variableDiv reveal reveallevel">
     <div class="imgDiv reveal revealleft">
         <span class="helper"></span>
-        <img src="images/tempHeadshot.JPG" alt="Axit Garcia Headshot">
+        <img src="images/headshot.jpg" alt="Axit Garcia Headshot">
     </div>
     <div class="textDiv reveal revealright">
         <div>

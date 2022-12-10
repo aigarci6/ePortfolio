@@ -16,7 +16,7 @@ require_once "includes/header.php";
     <div class="variableDiv appear1">
         <div class="imgDiv">
             <span class="helper"></span>
-            <img src="images/tempHeadshot.JPG" alt="Axit Garcia Headshot">
+            <img src="images/planePointing.jpg" alt="Axit Garcia Headshot">
         </div>
         <div class="textDiv">
             <div>
